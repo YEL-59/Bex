@@ -1,0 +1,78 @@
+.nav_wrapper  a{
+    color: #000;
+    font-size: 12;
+    font-weight: 600;
+}
+.first_wrapper h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.mt-30{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.mt-60{
+    margin-top: 260px;
+}
+
+.bg-1{
+    background-image: url("../images/call-to-action.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+
+
+.carousel-icon  {
+   
+    
+  
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background-color: #050513;
+    
+}
+
+
+.bi-quote{
+    font-size: 60px;
+}
+
+
+.bg-footer{
+    background-color: #F4F4F4;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box1{
+    min-height: 250px;
+    background-color: aquamarine;
+}
+.box2{
+    min-height: 250px;
+    background-color: rgb(24, 29, 27);
+}
+
+.box3{
+    min-height: 250px;
+    background-color: rgb(85, 241, 12);
+}
+
